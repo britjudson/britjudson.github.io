@@ -1,7 +1,7 @@
 ---
 title:""Final Project for Data Science Course"
 date: 2020-05-10
-tags: [data science]
+tags: [datascience]
 header:
   image: "/images/metroenergy-avgbar.png"
 excerpt: "Data Science: Energy Burden Analysis"
